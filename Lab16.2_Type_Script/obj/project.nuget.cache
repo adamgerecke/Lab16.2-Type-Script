@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jhn5Sehce0PKNkaX8DXxOJ36weayiuMuPXJo6UsKYchJWb2TJVJpIJioW4cdMTWBunvnSPpLN4FSc0XhJ4ccgg==",
+  "success": true,
+  "projectFilePath": "C:\\devbuild4\\DOM  JAVA\\Lab16.2_Type_Script\\Lab16.2_Type_Script\\Lab16.2_Type_Script.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\agerecke\\.nuget\\packages\\microsoft.typescript.msbuild\\4.0.3\\microsoft.typescript.msbuild.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
